@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning Backend Development
 - 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/luka-macharashvili-ba8a0222b/)
 - 👩‍💻 Skills:
-- HTML / CSS / JavaScript / Angular / Bootstrap / Angular Material / Git / JSON / TypeScript / Firebase / GitHub / RxJS / NgRx / OOP / Node.JS / Express.JS / MongoDB / Cloudinary
+- 🤹‍ Nodejs / Expressjs / Angular / MongoDB / Firebase / Git / TypeScript / JavaScript / HTML5 / CSS3 / Cloudinary / Nestjs / Bootstrap / Angular Material / RxJS / NgRx / OOP / JSON / JWT / NPM / Mean Stack / Full Stack
